@@ -1,0 +1,1676 @@
+
+
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">-->
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head id="head">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <!-- META Tag Macro -->
+    
+ <meta http-equiv="imagetoolbar" content="false" />
+ 
+<meta name="google-site-verification" content="3ve2GbrzVdUGuRB9PFZOMlrZRIez03FZkQ53fg_c2BQ" />
+    
+   <!--Styles-->
+  
+    <link rel="stylesheet" type="text/css" href="/css/ddsmoothmenu.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="/css/ddsmoothmenu-v.css" media="screen"/>
+    
+    
+     <script type="text/javascript" src="/scripts/ddsmoothmenu.js"></script>
+     <link rel="stylesheet" type="text/css" href="/css/overcast/jquery-ui-1.8.14.custom.css"/>
+     <link rel="stylesheet" type="text/css" href="/css/Modal.css" media="screen"/>   
+  
+          <link type="text/css" rel="stylesheet" media="only screen and (min-device-width: 482px)" href="/css/noSections.css" />
+        <link rel="stylesheet" type="text/css" href="/css/Interior.css" media="screen"/>
+       <link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="/css/handheld.css" />
+       <link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="/css/handheld-interior.css" /> 
+      <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+
+  
+  <!--[if lt IE 9]>
+  <link type="text/css" rel="stylesheet" media="screen" href="/css/noSections.css" />
+       <link rel="stylesheet" type="text/css" href="/css/Interior.css" media="screen"/>
+<![endif]-->
+  
+ <!-- 
+  <link rel="stylesheet" type="text/css" href="/css/Modal.css" media="screen"/>
+  <link rel="stylesheet" type="text/css" href="/css/Interior.css" media="screen"/>
+       
+   <link type="text/css" rel="stylesheet"  href="/css/handheld.css" />
+   <link type="text/css" rel="stylesheet"  href="/css/handheld-interior.css" /> 
+    <link rel="stylesheet" type="text/css" href="/css/Modal.css" />
+  <link rel="stylesheet" type="text/css" href="/css/mobileList.css" /> -->   
+  
+  <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.16/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="/scripts/slidePanel.js"></script>
+      <script type="text/javascript" src="/scripts/slidePanel2.js"></script> 
+  <script type="text/javascript" src="/scripts/jquery.cookie.js"></script>
+  <script type="text/javascript" src="/scripts/jquery.simplemodal.js"></script>
+  
+  <script type="text/javascript"
+  src="http://maps.google.com/maps/api/js?sensor=false">
+  </script>
+  <script src="http://maps.google.com/maps/api/js?libraries=places&amp;sensor=false&amp;language=en-EN"></script>
+ <script type="text/javascript" src="/scripts/helper.js"></script>
+  
+  
+  
+       <title>
+      Only the Best Local Restaurants Guide, Diner Reviews, and Dining Blogs. No National Chains. | LocalEats
+    </title> 
+
+       <meta name="description"
+content="Locally-owned restaurants guide,real diner reviews and food blogs. No chain restaurants, only the best locally owned restaurants." />
+
+    <meta id="uxKeywords" name="keywords" content="restaurants,local restaurants,best restaurants,dining,food blogs,restaurant maps,dining reservations,pizza,burgers,steak houses,sushi bars,diners,delis,italian food,takeout,new american cuisine,thai food,indian cuisine,bakery,bagels,coffeehouse,pubs,dives,pizza joints,barbecue,chicken shacks,food trucks,fine-dining" />
+
+
+   
+
+</head>
+<body class="t">
+  <form method="post" action="/404_page.aspx?404;http://www.localeats.com:80/img/ajax-loader.gif" id="ctl02">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRk9o9nRjMMjtF8LknYgUmuQA==" />
+</div>
+
+ 
+  <div id="mobileTopMenu">
+           
+          <ul>
+             <li><a href="/our-cities/"><span>Our Cities</span></a></li>
+             <li><a class="greyRow2" href="/landmarks/"><span>Landmarks</span></a></li>
+             <li><a href="/localeats-mobile/"><span>LocalEats Mobile</span></a></li>
+             
+                 <li><a class="greyRow2" href="/award-winning-restaurants-by-city/">Award Winners by City</a></li>
+                 <li><a href="/award-winning-restaurants-by-cuisine/" class="selected">Award Winners by Cuisine</a></li>
+                 <li><a class="greyRow2" href="/top-10-restaurants-in-america/">Top 10 Restaurants by Category</a></li>
+              
+            
+                 <li><a href="/man-bites-food/">Man Bites Food Blog</a></li>
+                  <li><a class="greyRow2" href="/best-american-food-and-dining-blogs/">Best American Food and Dining Blogs</a></li>
+                  <li><a href="/best-international-food-and-dining-blogs/">Best International Food and Dining Blogs</a></li>
+                  <li><a class="greyRow2" href="/food-wine-events-and-festivals/2013/march/food-event-calendar/" class="selected">Food Events</a></li>
+                  <li><a href="/dine-n-dash-blog/">Dine &amp; Dash Blog</a></li>
+              
+          </ul> 
+       
+        </div> <!-- mobileTopMenu -->
+
+     
+  
+ 
+  
+        
+ <div id="background">
+     
+      
+     
+       <img src='/images/Frankfurt.jpg'>
+     
+     
+        
+      
+      <div id="fader">&nbsp;</div>
+    </div>  
+  
+
+ 
+
+<div id="page" class="cb_slide_panel">
+  
+  
+ 
+
+<!--  <div id="interiorContentTop">
+  <img src="/images/interiorTop.gif" height="4" width="678"/>
+ </div>  -->
+  
+ <div id="content">
+   <div id="hdrWrap">
+    <div id="hdr">
+       <div class="menuIcon">
+        <a href="javascript:void(0)" class="user" rel="panel" id="show"><img src="/media/265705/menuicon.png"></a>
+      </div> <!-- menuIcon -->
+      <div id="mobileSearchIcon">
+        <a href="javascript:void(0)" class="user" rel="panel2" id="show2"><img src="/media/265710/mobilesearch.png"></a>
+      </div> <!-- mobileSearchIcon -->
+      <div id="hdrLogo">
+        <a href="/">
+          <img src="/media/213931/logo.jpg" height="71" width="238" alt="LocalEats. Only the Best Local Restaurants"/>
+        </a>
+      </div> <!-- hdrLogo -->
+      
+      <script type="text/javascript">
+    function geoCodeTheSearchViaGoogle() {
+    //var theGeoCall = "http://maps.googleapis.com/maps/api/geocode/json?address=" + addy + "&sensor=false";
+  
+    var geocoder = new google.maps.Geocoder();
+    var theWhere = $("#txtLocoSearch").val();
+    var theWhat = $("#txtWhatSearch").val();
+    var theLatLng = "";
+  var coordArray = [];
+    geocoder.geocode( { 'address': theWhere}, function(results, status) {
+      if (status == google.maps.GeocoderStatus.OK) {
+        theLatLng = results[0].geometry.location;
+       
+        coordArray[0] = theLatLng.lat();
+        
+        coordArray[1] = theLatLng.lng();
+        
+        
+var n = theWhat.indexOf('\'');
+theWhat = theWhat.substring(0, n != -1 ? n : theWhat.length);
+                       
+                                                    
+         theWhat = theWhat.replace(/ /g, "-");
+      theWhat = theWhat.replace(/,/g,"");
+     //theWhat = theWhat.replace(/'/g,"");
+      theWhere = theWhere.replace(/ /g, "-");
+      theWhere = theWhere.replace(/,/g,"-");
+      theWhere = theWhere.replace(/'/g,"");
+      theWhere = theWhere.replace(/--/g,"-");
+        if((theWhat == "") || (theWhat == undefined)) {
+          window.location = "/q/" + theWhere + "-restaurants/?lat=" + coordArray[0] + "&lon=" + coordArray[1] + "&rad=50";            
+        } else {
+          window.location = "/q/" + theWhere + "-restaurants/" + theWhat + "?lat=" + coordArray[0] + "&lon=" + coordArray[1] + "&rad=50";     
+        }
+      } else {
+        alert(theWhere);
+        alert("Geocode was not successful for the following reason: " + status);
+      }
+    });
+
+}     
+  </script>
+
+
+
+
+  <script type="text/javascript">
+    function doSearch() {
+                         //alert("test");
+      var theWhat = $("#txtWhatSearch").val();
+      var theWhere = $("#txtLocoSearch").val();
+      
+      theWhat = theWhat.replace(/ /g, "-");
+      theWhat = theWhat.replace(/,/g,"");
+      theWhat = theWhat.replace(/'/g,"");
+      theWhere = theWhere.replace(/ /g, "-");
+      theWhere = theWhere.replace(/,/g,"-");
+      theWhere = theWhere.replace(/'/g,"");
+      theWhere = theWhere.replace(/--/g,"-");
+      
+      var theURL = "";
+                         
+    var position= theWhat.indexOf("'",0);       
+    if(position != -1) {
+       theWhat = theWhat.substring(0,position);
+                       
+    }
+      
+      if(theWhere == "") {
+        alert('The "where" field is required');
+       return; 
+      }
+      
+      if(theWhat != "") {
+        theURL = "/q/" + theWhere + "-restaurants/" + theWhat + "/";
+      } else {
+        theURL = "/q/" + theWhere + "-restaurants/";
+      }
+      
+      window.location = theURL;
+    }
+    </script>
+
+   <div id="normalSearch">
+         <div class="mobileSearchHead">Search</div>
+   <div id="restSrch">
+      <div id="restSrchMid">
+        <div class="restSrchHead">
+          <div class="restSrchCol1">
+            <div class="restSrchTinyTxt">
+              Find What (restaurant name, category, cuisine)
+            </div> <!-- restSrchTinyTxt -->
+          </div> <!-- restSrchCol1 -->
+          <div class="restSrchCol2">
+            <div class="restSrchTinyTxt">
+              Where (city, state, zip, address, landmark)
+            </div> <!-- restSrchTinyTxt -->
+          </div> <!-- restSrchCol2 -->
+        </div> <!-- restSrchHead end div -->
+        
+        <div class="clear"></div>
+        
+        <div class="restSrchBoxArea">
+      <div class="restSrchCol3">
+        <!-- mainRestSrchTinyTxt -->
+        <input type="text" id="txtWhatSearch" class="restSrchInput restSrchWhat" />
+      </div> <!-- restSrchCol3 -->
+      <div class="restSrchCol4">
+          <input type="text" id="txtLocoSearch" class="restSrchInput restSrchWhere" />
+       
+          <input type="button" id="mainSearchBtn" class="restSrchSubmit" value=">>" onClick="javascript:geoCodeTheSearchViaGoogle()"/>
+          <span id="spnNoBut" style="display: none;">
+              
+              <input type="submit" value=">>" id="Button1" />          
+          </span>
+          <span id="ContentPlaceHolderDefault_wucRestaurantSearch_6_rfdSearchSubmit" style="visibility:hidden;"></span>
+              <input name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$wucRestaurantSearch_6$hidLat" type="hidden" id="ContentPlaceHolderDefault_wucRestaurantSearch_6_hidLat" class="clsHidLat" />
+              <input name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$wucRestaurantSearch_6$hidLon" type="hidden" id="ContentPlaceHolderDefault_wucRestaurantSearch_6_hidLon" class="clsHidLon" />
+      </div> <!-- restSrchCol4 -->
+          <div class="clear"></div>
+        </div> <!-- restSrchBoxArea end div -->
+        <div class="clear"></div> 
+       
+      </div> <!-- restSrchMid -->
+      <div class="clear"></div>
+    </div>  <!-- restSrch -->
+    <div class="clear"></div>
+ 
+        <div id="useCurrentPos">Find Restaurants Near You</div> <!-- useCurrentPos -->
+   </div> <!-- normalSearch -->
+
+      
+     
+      <div class="clear"></div>
+        <div id="mainmenu" class="ddsmoothmenu">
+           <ul class="topNavigation"><li><a class="navigation" href="/landmarks/"><span>Landmarks</span></a></li><li><a class="navigation" href="/localeats-mobile/"><span>LocalEats Mobile</span></a></li><li><a class="navigation" href="/neighborhoods/"><span>Neighborhoods</span></a></li><li><a class="navigation" href="/our-cities/"><span>Our Cities</span></a></li><li><a class="navigation" href="#" onclick="return false"><span>Restaurant Award Winners</span></a><ul style="visibility: hidden"><li><a href="/20-best-breakfast-restaurants-in-america/slideshow/">Best Breakfast Restaurants in America</a></li><li><a href="/20-best-barbecue-restaurants-in-america/slideshow/">Best Barbecue Restaurants in America</a></li><li><a href="/award-winning-restaurants-by-city/">Award Winners by City</a></li><li><a href="/award-winning-restaurants-by-cuisine/" class="selected">Award Winners by Cuisine</a></li><li><a href="/top-10-restaurants-in-america/">Top 10 Restaurants by Category</a></li></ul></li><li><a href="#" onclick="return false">Foodie Blogs</a><ul style="visibility: hidden"><li class="noFloat"><a href="/man-bites-food/">Man Bites Food Blog</a></li><li class="noFloat"><a href="/best-american-food-and-dining-blogs/">Best American Food and Dining Blogs</a></li><li class="noFloat"><a href="/best-international-food-and-dining-blogs/">Best International Food and Dining Blogs</a></li><li class="noFloat"><a href="/food-wine-events-and-festivals/2013/april/food-event-calendar/">Food Events</a></li><li class="noFloat"><a href="/dine-n-dash-blog/">Dine &amp; Dash Blog</a></li></ul></li></ul> 
+        </div> 
+        
+    <!-- <div class="mainmenucorner">&nbsp;</div> -->
+    </div> <!-- hdr -->
+     <div id="mobileListHeader">
+       <div id="mobileMapBtn" onclick="showMobileMap();">
+         <a href="javascript:void(0)">Map</a>    
+       </div> <!-- mobileMapBtn -->
+       <div id="mobileFilterIcon">
+        <a href="javascript:void(0)">Filter</a>
+      </div> <!-- mobileFilterIcon -->
+       <div class="clear"></div>
+     </div> <!-- mobileListHeader -->  
+  </div> <!-- hdrWrap -->
+
+ <div id="topBnrSpace">
+   <!--  <div id="topNewsLtrBox">
+     <h2><strong>SUBSCRIBE</strong> to LOCAL EATS</h2>
+     <div id="topNewsLtrTag">
+        A healthy obsession with food
+     </div> 
+     <div id="topNewsLtrForm">
+         <input type="text" class="topFormInput" id="newsletterInput" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Enter Email Address':this.value;" value="Enter Email Address"/>
+         <input type="submit" value="SUBSCRIBE" class="formSubmit" id="newsletterSubmit" onclick="return false"/>
+     </div> 
+   </div> -->
+   
+   <div style="position: relative;float: left;height: 88px;width: 246px;border: 1px solid #fff;">
+     <a href="/deals-signup-form/">
+       <img src="/media/380097/deals-topnav.jpg" alt="LocalEats Deals Signup"/>
+     </a>
+   </div> 
+  <div id="topBnrAd">
+    <!---  start of Advertising.com 728x90 Ad Tag --->
+<script type="text/javascript">var ACE_AR = {Site: '799521', Size: '728090'};</script>
+<script type="text/javascript" src='http://uac.advertising.com/wrapper/aceUAC.js'></SCRIPT>
+<!---  end of Advertising.com 728x90 Ad Tag --->
+   </div> <!-- topBnrAd -->
+ </div> <!-- topBnrSpace -->
+
+<div id="leftcontent">
+ 
+   
+  
+  
+  <!-- <img src="http://www.localeats.com/media/218332/404.jpg" alt="404 page"/> -->
+    <h1>Hmmm... Well that's not right, but don't fret! We've got you covered. Click on a link below to find restaurants by city, metro area or even landmarks!</h1>  
+  <div class="allLocSect">
+      <h2>Find Restaurants by U.S. Major Metro Areas</h2>
+        
+              <div class="citiesCol">
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Atlanta, GA">Atlanta</a>-->
+               <a href='/q/Atlanta-GA-restaurants/'>Atlanta</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Austin, TX">Austin</a>-->
+               <a href='/q/Austin-TX-restaurants/'>Austin</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Baltimore, MD">Baltimore</a>-->
+               <a href='/q/Baltimore-MD-restaurants/'>Baltimore</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Birmingham, AL">Birmingham</a>-->
+               <a href='/q/Birmingham-AL-restaurants/'>Birmingham</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Boston, MA">Boston</a>-->
+               <a href='/q/Boston-MA-restaurants/'>Boston</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Buffalo, NY">Buffalo</a>-->
+               <a href='/q/Buffalo-NY-restaurants/'>Buffalo</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Charleston, SC">Charleston</a>-->
+               <a href='/q/Charleston-SC-restaurants/'>Charleston</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Charlotte, NC">Charlotte</a>-->
+               <a href='/q/Charlotte-NC-restaurants/'>Charlotte</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Chicago, IL">Chicago</a>-->
+               <a href='/q/Chicago-IL-restaurants/'>Chicago</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Cincinnati, OH">Cincinnati</a>-->
+               <a href='/q/Cincinnati-OH-restaurants/'>Cincinnati</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Cleveland, OH">Cleveland</a>-->
+               <a href='/q/Cleveland-OH-restaurants/'>Cleveland</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Columbus, OH">Columbus</a>-->
+               <a href='/q/Columbus-OH-restaurants/'>Columbus</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Dallas, TX">Dallas</a>-->
+               <a href='/q/Dallas-TX-restaurants/'>Dallas</a>
+             </div>
+              </div>
+              <div class="citiesCol">     
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Denver, CO">Denver</a>-->
+               <a href='/q/Denver-CO-restaurants/'>Denver</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Detroit, MI">Detroit</a>-->
+               <a href='/q/Detroit-MI-restaurants/'>Detroit</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Fort Lauderdale, FL">Fort Lauderdale</a>-->
+               <a href='/q/Fort-Lauderdale-FL-restaurants/'>Fort Lauderdale</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Fort Worth, TX">Fort Worth</a>-->
+               <a href='/q/Fort-Worth-TX-restaurants/'>Fort Worth</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Honolulu, HI">Honolulu</a>-->
+               <a href='/q/Honolulu-HI-restaurants/'>Honolulu</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Houston, TX">Houston</a>-->
+               <a href='/q/Houston-TX-restaurants/'>Houston</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Indianapolis, IN">Indianapolis</a>-->
+               <a href='/q/Indianapolis-IN-restaurants/'>Indianapolis</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Jacksonville, FL">Jacksonville</a>-->
+               <a href='/q/Jacksonville-FL-restaurants/'>Jacksonville</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Kansas City, MO">Kansas City</a>-->
+               <a href='/q/Kansas-City-MO-restaurants/'>Kansas City</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Las Vegas, NV">Las Vegas</a>-->
+               <a href='/q/Las-Vegas-NV-restaurants/'>Las Vegas</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Los Angeles, CA">Los Angeles</a>-->
+               <a href='/q/Los-Angeles-CA-restaurants/'>Los Angeles</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Louisville, KY">Louisville</a>-->
+               <a href='/q/Louisville-KY-restaurants/'>Louisville</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Memphis, TN">Memphis</a>-->
+               <a href='/q/Memphis-TN-restaurants/'>Memphis</a>
+             </div>
+              </div>
+              <div class="citiesCol">     
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Miami, FL">Miami</a>-->
+               <a href='/q/Miami-FL-restaurants/'>Miami</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Milwaukee, WI">Milwaukee</a>-->
+               <a href='/q/Milwaukee-WI-restaurants/'>Milwaukee</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Minneapolis, MN">Minneapolis</a>-->
+               <a href='/q/Minneapolis-MN-restaurants/'>Minneapolis</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Nashville, TN">Nashville</a>-->
+               <a href='/q/Nashville-TN-restaurants/'>Nashville</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=New Orleans, LA">New Orleans</a>-->
+               <a href='/q/New-Orleans-LA-restaurants/'>New Orleans</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=New York, NY">New York</a>-->
+               <a href='/q/New-York-NY-restaurants/'>New York</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Oakland, CA">Oakland</a>-->
+               <a href='/q/Oakland-CA-restaurants/'>Oakland</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Oklahoma City, OK">Oklahoma City</a>-->
+               <a href='/q/Oklahoma-City-OK-restaurants/'>Oklahoma City</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Orlando, FL">Orlando</a>-->
+               <a href='/q/Orlando-FL-restaurants/'>Orlando</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Philadelphia, PA">Philadelphia</a>-->
+               <a href='/q/Philadelphia-PA-restaurants/'>Philadelphia</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Phoenix, AZ">Phoenix</a>-->
+               <a href='/q/Phoenix-AZ-restaurants/'>Phoenix</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Pittsburgh, PA">Pittsburgh</a>-->
+               <a href='/q/Pittsburgh-PA-restaurants/'>Pittsburgh</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Portland, OR">Portland</a>-->
+               <a href='/q/Portland-OR-restaurants/'>Portland</a>
+             </div>
+              </div>
+              <div class="citiesCol">     
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Raleigh, NC">Raleigh</a>-->
+               <a href='/q/Raleigh-NC-restaurants/'>Raleigh</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Rochester, NY">Rochester</a>-->
+               <a href='/q/Rochester-NY-restaurants/'>Rochester</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Sacramento, CA">Sacramento</a>-->
+               <a href='/q/Sacramento-CA-restaurants/'>Sacramento</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Salt Lake City, UT">Salt Lake City</a>-->
+               <a href='/q/Salt-Lake-City-UT-restaurants/'>Salt Lake City</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=San Antonio, TX">San Antonio</a>-->
+               <a href='/q/San-Antonio-TX-restaurants/'>San Antonio</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=San Diego, CA">San Diego</a>-->
+               <a href='/q/San-Diego-CA-restaurants/'>San Diego</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=San Francisco, CA">San Francisco</a>-->
+               <a href='/q/San-Francisco-CA-restaurants/'>San Francisco</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=San Jose, CA">San Jose</a>-->
+               <a href='/q/San-Jose-CA-restaurants/'>San Jose</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Seattle, WA">Seattle</a>-->
+               <a href='/q/Seattle-WA-restaurants/'>Seattle</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=St Louis, MO">St Louis</a>-->
+               <a href='/q/St-Louis-MO-restaurants/'>St Louis</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Tampa, FL">Tampa</a>-->
+               <a href='/q/Tampa-FL-restaurants/'>Tampa</a>
+             </div>
+             <div>
+               <!--<a href="/Restaurant_list?strWhat=&strWhere=Washington, DC">Washington</a>-->
+               <a href='/q/Washington-DC-restaurants/'>Washington</a>
+             </div>
+              </div>                                                   
+      
+    <div class="clear"></div>
+  </div>
+  <div style="margin-top:10px; text-align:center">
+  <!-- Google Text Ad -->
+  <script type="text/javascript"><!--
+    google_ad_client = "ca-pub-0200149872021695";
+    /* New LocalEats Text Ad */
+    google_ad_slot = "8593173408";
+    google_ad_width = 468;
+    google_ad_height = 60;
+    //-->
+    </script>
+    <script type="text/javascript"
+    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+  <!--end Google Text Ad -->
+  </div>    
+  <div class="allLocSect">
+      <h2>Find Restaurants near Landmarks by U.S. Major Metro Areas</h2>
+        
+              <div class="citiesCol">
+             <div>
+               <a href="/landmark_list/restaurants-near/Atlanta/">Atlanta</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Austin/">Austin</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Baltimore/">Baltimore</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Birmingham/">Birmingham</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Boston/">Boston</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Buffalo/">Buffalo</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Charleston/">Charleston</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Charlotte/">Charlotte</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Chicago/">Chicago</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Cincinnati/">Cincinnati</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Cleveland/">Cleveland</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Columbus/">Columbus</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Dallas/">Dallas</a>
+             </div>
+              </div>
+              <div class="citiesCol">     
+             <div>
+               <a href="/landmark_list/restaurants-near/Denver/">Denver</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Detroit/">Detroit</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Fort Lauderdale/">Fort Lauderdale</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Fort Worth/">Fort Worth</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Honolulu/">Honolulu</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Houston/">Houston</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Indianapolis/">Indianapolis</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Jacksonville/">Jacksonville</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Kansas City/">Kansas City</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Las Vegas/">Las Vegas</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Los Angeles/">Los Angeles</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Louisville/">Louisville</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Memphis/">Memphis</a>
+             </div>
+              </div>
+              <div class="citiesCol">     
+             <div>
+               <a href="/landmark_list/restaurants-near/Miami/">Miami</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Milwaukee/">Milwaukee</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Minneapolis/">Minneapolis</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Nashville/">Nashville</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/New Orleans/">New Orleans</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/New York/">New York</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Oakland/">Oakland</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Oklahoma City/">Oklahoma City</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Orlando/">Orlando</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Philadelphia/">Philadelphia</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Phoenix/">Phoenix</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Pittsburgh/">Pittsburgh</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Portland/">Portland</a>
+             </div>
+              </div>
+              <div class="citiesCol">     
+             <div>
+               <a href="/landmark_list/restaurants-near/Raleigh/">Raleigh</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Rochester/">Rochester</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Sacramento/">Sacramento</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Salt Lake City/">Salt Lake City</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/San Antonio/">San Antonio</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/San Diego/">San Diego</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/San Francisco/">San Francisco</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/San Jose/">San Jose</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Seattle/">Seattle</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/St Louis/">St Louis</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Tampa/">Tampa</a>
+             </div>
+             <div>
+               <a href="/landmark_list/restaurants-near/Washington/">Washington</a>
+             </div>
+              </div>                                                   
+      
+    <div class="clear"></div>
+  </div>
+  <div style="padding:5px 0; text-align:center">
+  <!-- Google Text Ad -->
+  <script type="text/javascript"><!--
+    google_ad_client = "ca-pub-0200149872021695";
+    /* New LocalEats Text Ad */
+    google_ad_slot = "8593173408";
+    google_ad_width = 468;
+    google_ad_height = 60;
+    //-->
+    </script>
+    <script type="text/javascript"
+    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+  <!--end Google Text Ad -->
+  </div>
+  <div class="allLocSect">
+      <h2>Find Restaurants by U.S. State/City</h2>
+        
+              <div class="citiesCol">
+             <div>
+               <a href="/Cities?stateID=1&stateName=Alabama">Alabama</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=2&stateName=Alaska">Alaska</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=4&stateName=Arizona">Arizona</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=5&stateName=Arkansas">Arkansas</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=6&stateName=California">California</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=8&stateName=Colorado">Colorado</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=9&stateName=Connecticut">Connecticut</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=10&stateName=Delaware">Delaware</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=11&stateName=District of Columbia">District of Columbia</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=12&stateName=Florida">Florida</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=13&stateName=Georgia">Georgia</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=15&stateName=Hawaii">Hawaii</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=16&stateName=Idaho">Idaho</a>
+             </div>
+              </div>
+              <div class="citiesCol">     
+             <div>
+               <a href="/Cities?stateID=17&stateName=Illinois">Illinois</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=18&stateName=Indiana">Indiana</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=19&stateName=Iowa">Iowa</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=20&stateName=Kansas">Kansas</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=21&stateName=Kentucky">Kentucky</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=22&stateName=Louisiana">Louisiana</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=23&stateName=Maine">Maine</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=24&stateName=Maryland">Maryland</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=25&stateName=Massachusetts">Massachusetts</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=26&stateName=Michigan">Michigan</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=27&stateName=Minnesota">Minnesota</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=28&stateName=Mississippi">Mississippi</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=29&stateName=Missouri">Missouri</a>
+             </div>
+              </div>
+              <div class="citiesCol">     
+             <div>
+               <a href="/Cities?stateID=30&stateName=Montana">Montana</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=31&stateName=Nebraska">Nebraska</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=32&stateName=Nevada">Nevada</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=33&stateName=New Hampshire">New Hampshire</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=34&stateName=New Jersey">New Jersey</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=35&stateName=New Mexico">New Mexico</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=36&stateName=New York">New York</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=37&stateName=North Carolina">North Carolina</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=38&stateName=North Dakota">North Dakota</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=39&stateName=Ohio">Ohio</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=40&stateName=Oklahoma">Oklahoma</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=41&stateName=Oregon">Oregon</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=42&stateName=Pennsylvania">Pennsylvania</a>
+             </div>
+              </div>
+              <div class="citiesCol">     
+             <div>
+               <a href="/Cities?stateID=44&stateName=Rhode Island">Rhode Island</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=45&stateName=South Carolina">South Carolina</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=46&stateName=South Dakota">South Dakota</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=47&stateName=Tennessee">Tennessee</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=48&stateName=Texas">Texas</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=49&stateName=Utah">Utah</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=50&stateName=Vermont">Vermont</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=51&stateName=Virginia">Virginia</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=53&stateName=Washington">Washington</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=54&stateName=West Virginia">West Virginia</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=55&stateName=Wisconsin">Wisconsin</a>
+             </div>
+             <div>
+               <a href="/Cities?stateID=56&stateName=Wyoming">Wyoming</a>
+             </div>
+              </div>                                                   
+      
+    <div class="clear"></div>
+  </div>
+
+
+
+</div>
+<div id="rightcontent">
+
+  
+  
+  
+     
+                                       
+   
+       <div id="map_canvas"> </div>
+    <script type="text/javascript"> 
+        $(".restSrchWhere").val("");
+      </script>
+
+
+       <!-- <div class="rightAdArea">
+   <a href="/deals-signup-form/" target="_blank"><img src="/media/380092/deals-sidebar.jpg"/></a>
+   </div>-->
+      
+  
+        
+        <!-- LOCALEATS APPS PROMO -->
+  <div class="rightAdArea" style="text-align:left; vertical-align: middle;">
+    <a href="/localeats-mobile/" alt="LocalEats: The world's #1 paid dining app"><img src="/media/381821/ban-le.png" style="margin-bottom:-10px" border="0"></a><br />
+  <a href="http://itunes.apple.com/us/app/localeats/id285518463?mt=8" target="_blank">
+    <img src="/media/381820/ico-download.png" width="14" height="14" border="0" align="left" style="margin:0 5px 0px 20px;"> Download LocalEats for iPhone</a><br />
+ 
+    <a href="http://itunes.apple.com/us/app/localeats-for-ipad/id424991383?mt=8" target="_blank">
+    <img src="/media/381820/ico-download.png" width="14" height="14"  border="0" align="left" style="margin:0 5px 0 20px;"> Download LocalEats for iPad</a>
+  </div>
+      
+      
+      <div class="rightAdArea">  
+<a class="twitter-timeline" href="https://twitter.com/LocalEats" data-widget-id="307182915899490304">Tweets by @LocalEats</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+   </div>
+  
+  
+   <div class="rightAdArea">
+     <div class="quickSearch">
+      
+    
+        <div id="allCitiesBoxHead">
+          <div class="allCitiesIcon"><img src="http://a0.twimg.com/profile_images/408060025/localeaters_avatar_normal.jpg" width="33px" height="33px" alt="LocalEats icon"/></div><h2 class="allCitiesHead">Quickly Find Restaurants In Our Top Cities</h2> 
+        </div>
+       <!-- <div id="seeAllCities">
+            
+        </div> -->
+        <div class="clear"></div>
+      <div id="homeShortCityList">
+        <div class="seeAllCitiesCol">
+          <ul>
+            <li><a href="/q/New-York-NY-restaurants/">New York, NY</a></li>
+            <li><a href="/q/Los-Angeles-CA-restaurants/">Los Angeles, CA</a></li>
+            <li><a href="/q/Chicago-IL-restaurants/">Chicago, IL</a></li>
+            <li><a href="/q/New-Orleans-LA-restaurants/">New Orleans, LA</a></li>
+          </ul>
+        </div>
+        <div class="seeAllCitiesCol">
+          <ul>
+            <li><a href="/q/Nashville-TN-restaurants/">Nashville, TN</a></li>
+            <li><a href="/q/San-Francisco-CA-restaurants/">San Francisco, CA</a></li>
+            <li><a href="/q/Charleston-SC-restaurants/">Charleston, SC</a></li>
+            <li><a href="/q/Cleveland-OH-restaurants">Cleveland, OH</a></li>
+          </ul>
+        </div>
+        <div class="seeAllCitiesCol">
+          <ul>
+            <li><a href="/q/Charlotte-NC-restaurants/">Charlotte, NC</a></li>
+            <li><a href="/q/Portland-OR-restaurants">Portland, OR</a></li>
+            <li><a href="/q/Orlando-FL-restaurants/">Orlando, FL</a></li>
+            <li><a href="/q/Dallas-TX-restaurants">Dallas, TX</a></li>
+          </ul>
+        </div>
+        <div class="seeAllCitiesCol noRight">
+          <ul>
+            <li><a href="/q/St-Louis-MO-restaurants/">St Louis, MO</a></li>
+            <li><a href="/q/Washington-DC-restaurants/">Washington, DC</a></li>
+            <li><a href="/q/Las-Vegas-NV-restaurants/">Las Vegas, NV</a></li>
+            <li><a href="/q/Minneapolis-MN-restaurants/">Minneapolis, MN</a></li>
+          </ul>
+        </div>
+        
+        <div class="clear"></div>
+        
+       </div> <!-- homeShortCityList -->
+      <div id="homeLongCityList"> 
+          <script type="text/javascript">
+  function geoCodeViaGoogle(addy, state) {
+    //var theGeoCall = "http://maps.googleapis.com/maps/api/geocode/json?address=" + addy + "&sensor=false";
+  
+    var geocoder = new google.maps.Geocoder();
+    var theLatLng = "";
+  var coordArray = [];
+    geocoder.geocode( { 'address': addy}, function(results, status) {
+      if (status == google.maps.GeocoderStatus.OK) {
+        theLatLng = results[0].geometry.location;
+       
+        coordArray[0] = theLatLng.lat();
+        
+        coordArray[1] = theLatLng.lng();
+        
+       
+        
+        window.location = "/q/addy-" + state + "-restaurants/?lat=" + coordArray[0] + "&lon=" + coordArray[1] + "&rad=50";
+        
+      } else {
+        alert(addy);
+        alert("Geocode was not successful for the following reason: " + status);
+      }
+    });
+
+}  </script>
+              <div class="seeAllCitiesCol">
+              <ul>            
+                <!-- <li><a href='/q/Atlanta-GA-restaurants/'>Atlanta</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Atlanta','GA'); return false;">Atlanta</a></li>
+                <!-- <li><a href='/q/Austin-TX-restaurants/'>Austin</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Austin','TX'); return false;">Austin</a></li>
+                <!-- <li><a href='/q/Baltimore-MD-restaurants/'>Baltimore</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Baltimore','MD'); return false;">Baltimore</a></li>
+                <!-- <li><a href='/q/Birmingham-AL-restaurants/'>Birmingham</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Birmingham','AL'); return false;">Birmingham</a></li>
+                <!-- <li><a href='/q/Boston-MA-restaurants/'>Boston</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Boston','MA'); return false;">Boston</a></li>
+                <!-- <li><a href='/q/Buffalo-NY-restaurants/'>Buffalo</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Buffalo','NY'); return false;">Buffalo</a></li>
+                <!-- <li><a href='/q/Charleston-SC-restaurants/'>Charleston</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Charleston','SC'); return false;">Charleston</a></li>
+                <!-- <li><a href='/q/Charlotte-NC-restaurants/'>Charlotte</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Charlotte','NC'); return false;">Charlotte</a></li>
+                <!-- <li><a href='/q/Chicago-IL-restaurants/'>Chicago</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Chicago','IL'); return false;">Chicago</a></li>
+                <!-- <li><a href='/q/Cincinnati-OH-restaurants/'>Cincinnati</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Cincinnati','OH'); return false;">Cincinnati</a></li>
+                <!-- <li><a href='/q/Cleveland-OH-restaurants/'>Cleveland</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Cleveland','OH'); return false;">Cleveland</a></li>
+                <!-- <li><a href='/q/Columbus-OH-restaurants/'>Columbus</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Columbus','OH'); return false;">Columbus</a></li>
+                <!-- <li><a href='/q/Dallas-TX-restaurants/'>Dallas</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Dallas','TX'); return false;">Dallas</a></li>
+              </ul>
+              </div>
+              <div class="seeAllCitiesCol">     
+              <ul>
+                <!-- <li><a href='/q/Denver-CO-restaurants/'>Denver</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Denver','CO'); return false;">Denver</a></li>
+                <!-- <li><a href='/q/Detroit-MI-restaurants/'>Detroit</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Detroit','MI'); return false;">Detroit</a></li>
+                <!-- <li><a href='/q/Fort-Lauderdale-FL-restaurants/'>Fort Lauderdale</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Fort Lauderdale','FL'); return false;">Fort Lauderdale</a></li>
+                <!-- <li><a href='/q/Fort-Worth-TX-restaurants/'>Fort Worth</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Fort Worth','TX'); return false;">Fort Worth</a></li>
+                <!-- <li><a href='/q/Honolulu-HI-restaurants/'>Honolulu</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Honolulu','HI'); return false;">Honolulu</a></li>
+                <!-- <li><a href='/q/Houston-TX-restaurants/'>Houston</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Houston','TX'); return false;">Houston</a></li>
+                <!-- <li><a href='/q/Indianapolis-IN-restaurants/'>Indianapolis</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Indianapolis','IN'); return false;">Indianapolis</a></li>
+                <!-- <li><a href='/q/Jacksonville-FL-restaurants/'>Jacksonville</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Jacksonville','FL'); return false;">Jacksonville</a></li>
+                <!-- <li><a href='/q/Kansas-City-MO-restaurants/'>Kansas City</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Kansas City','MO'); return false;">Kansas City</a></li>
+                <!-- <li><a href='/q/Las-Vegas-NV-restaurants/'>Las Vegas</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Las Vegas','NV'); return false;">Las Vegas</a></li>
+                <!-- <li><a href='/q/Los-Angeles-CA-restaurants/'>Los Angeles</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Los Angeles','CA'); return false;">Los Angeles</a></li>
+                <!-- <li><a href='/q/Louisville-KY-restaurants/'>Louisville</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Louisville','KY'); return false;">Louisville</a></li>
+                <!-- <li><a href='/q/Memphis-TN-restaurants/'>Memphis</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Memphis','TN'); return false;">Memphis</a></li>
+              </ul>
+              </div>
+              <div class="seeAllCitiesCol">     
+              <ul>
+                <!-- <li><a href='/q/Miami-FL-restaurants/'>Miami</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Miami','FL'); return false;">Miami</a></li>
+                <!-- <li><a href='/q/Milwaukee-WI-restaurants/'>Milwaukee</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Milwaukee','WI'); return false;">Milwaukee</a></li>
+                <!-- <li><a href='/q/Minneapolis-MN-restaurants/'>Minneapolis</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Minneapolis','MN'); return false;">Minneapolis</a></li>
+                <!-- <li><a href='/q/Nashville-TN-restaurants/'>Nashville</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Nashville','TN'); return false;">Nashville</a></li>
+                <!-- <li><a href='/q/New-Orleans-LA-restaurants/'>New Orleans</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('New Orleans','LA'); return false;">New Orleans</a></li>
+                <!-- <li><a href='/q/New-York-NY-restaurants/'>New York</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('New York','NY'); return false;">New York</a></li>
+                <!-- <li><a href='/q/Oakland-CA-restaurants/'>Oakland</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Oakland','CA'); return false;">Oakland</a></li>
+                <!-- <li><a href='/q/Oklahoma-City-OK-restaurants/'>Oklahoma City</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Oklahoma City','OK'); return false;">Oklahoma City</a></li>
+                <!-- <li><a href='/q/Orlando-FL-restaurants/'>Orlando</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Orlando','FL'); return false;">Orlando</a></li>
+                <!-- <li><a href='/q/Philadelphia-PA-restaurants/'>Philadelphia</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Philadelphia','PA'); return false;">Philadelphia</a></li>
+                <!-- <li><a href='/q/Phoenix-AZ-restaurants/'>Phoenix</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Phoenix','AZ'); return false;">Phoenix</a></li>
+                <!-- <li><a href='/q/Pittsburgh-PA-restaurants/'>Pittsburgh</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Pittsburgh','PA'); return false;">Pittsburgh</a></li>
+                <!-- <li><a href='/q/Portland-OR-restaurants/'>Portland</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Portland','OR'); return false;">Portland</a></li>
+              </ul>
+              </div>
+              <div class="seeAllCitiesCol">     
+              <ul>
+                <!-- <li><a href='/q/Raleigh-NC-restaurants/'>Raleigh</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Raleigh','NC'); return false;">Raleigh</a></li>
+                <!-- <li><a href='/q/Rochester-NY-restaurants/'>Rochester</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Rochester','NY'); return false;">Rochester</a></li>
+                <!-- <li><a href='/q/Sacramento-CA-restaurants/'>Sacramento</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Sacramento','CA'); return false;">Sacramento</a></li>
+                <!-- <li><a href='/q/Salt-Lake-City-UT-restaurants/'>Salt Lake City</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Salt Lake City','UT'); return false;">Salt Lake City</a></li>
+                <!-- <li><a href='/q/San-Antonio-TX-restaurants/'>San Antonio</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('San Antonio','TX'); return false;">San Antonio</a></li>
+                <!-- <li><a href='/q/San-Diego-CA-restaurants/'>San Diego</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('San Diego','CA'); return false;">San Diego</a></li>
+                <!-- <li><a href='/q/San-Francisco-CA-restaurants/'>San Francisco</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('San Francisco','CA'); return false;">San Francisco</a></li>
+                <!-- <li><a href='/q/San-Jose-CA-restaurants/'>San Jose</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('San Jose','CA'); return false;">San Jose</a></li>
+                <!-- <li><a href='/q/Seattle-WA-restaurants/'>Seattle</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Seattle','WA'); return false;">Seattle</a></li>
+                <!-- <li><a href='/q/St-Louis-MO-restaurants/'>St Louis</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('St Louis','MO'); return false;">St Louis</a></li>
+                <!-- <li><a href='/q/Tampa-FL-restaurants/'>Tampa</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Tampa','FL'); return false;">Tampa</a></li>
+                <!-- <li><a href='/q/Washington-DC-restaurants/'>Washington</a></li> -->
+             <li><a href='#' onClick="geoCodeViaGoogle('Washington','DC'); return false;">Washington</a></li>
+              </ul>                                     
+              </div>                                                   
+ 
+      </div>  
+        <div class="clear"></div>
+     
+        <div id="homeSeeMoreCities">
+            <a href='/our-cities/'>see all cities</a> | <a class="homeSeeMoreLink" href='#' onClick='return false'>see more cities <img src='/media/248820/arrowdown.gif'/></a>
+        </div>
+       <div id="homeSeeLessCities">
+            <a href='/our-cities/'>see all cities</a> | <a class="homeSeeMoreLink" href='#' onClick='return false'>see less cities <img src='/media/248825/arrowup.gif'/></a>
+        </div>
+      
+        <div class="clear"></div>
+      
+    </div> <!-- mainBoxArea end div -->
+  </div>
+
+<!-- <div class="rightAdArea">
+   <a href="http://itunes.apple.com/us/app/localeats-for-ipad/id424991383?mt=8" target="_blank"><img src="/media/249020/iphonead_76.jpg"/></a>
+   </div> <!-- rightAdArea -->
+ <!--  <div class="rightAdArea">
+    <a href="http://itunes.apple.com/us/app/localeats/id285518463?mt=8" target="_blank"><img src="/media/249025/ipadad2_76.jpg"/></a>
+   </div> <!-- rightAdArea --> 
+      
+      
+      <div class="rightAdArea">
+    <!--- start of localeats_ros_300x250_247RealMediaAdTag --->
+<script type="text/javascript">
+OAS_rn = new String (Math.random());
+OAS_rns = OAS_rn.substring (2, 11);
+document.write('<scr'+'ipt type="text/javascript" src="http://network.realmedia.com/RealMedia/ads/adstream_jx.ads/localeats/ros/300x250/jx/ss/a/1'+OAS_rns+'@x15"></scr'+'ipt>');
+</script>
+<!--- end of localeats_ros_300x250_247RealMediaAdTag --->
+  </div>
+      
+      <div class="rightAdArea">
+      <!---  start of Advertising.com 300x250 Ad Tag --->
+<SCRIPT>var ACE_AR = {Site: '799963', Size: '300250'};</SCRIPT> <SCRIPT language='JavaScript' src='http://uac.advertising.com/wrapper/aceUAC.js'></SCRIPT>
+<!---  end of Advertising.com 300x250 Ad Tag --->
+      </div>
+  
+   <!-- rightAdArea -->
+
+  
+
+  
+</div> <!-- rightcontent -->
+   <div class="clear"></div>
+  </div>
+  <!-- <div id="interiorContentBtm">
+  <img src="/images/interiorBtm.png" height="5" width="678"/>
+ </div> -->  
+  <div id="footer">
+    <div id="footer-end">
+      <p>
+        <b>Switch Cities:</b>
+        
+               <a href="/home/Atlanta-dining/" alt="Atlanta Restaurants">Atlanta</a> |
+       <a href="/home/Austin-dining/" alt="Austin Restaurants">Austin</a> |
+       <a href="/home/Baltimore-dining/" alt="Baltimore Restaurants">Baltimore</a> |
+       <a href="/home/Birmingham-dining/" alt="Birmingham Restaurants">Birmingham</a> |
+       <a href="/home/Boston-dining/" alt="Boston Restaurants">Boston</a> |
+       <a href="/home/Buffalo-dining/" alt="Buffalo Restaurants">Buffalo</a> |
+       <a href="/home/Charleston-dining/" alt="Charleston Restaurants">Charleston</a> |
+       <a href="/home/Charlotte-dining/" alt="Charlotte Restaurants">Charlotte</a> |
+       <a href="/home/Chicago-dining/" alt="Chicago Restaurants">Chicago</a> |
+       <a href="/home/Cincinnati-dining/" alt="Cincinnati Restaurants">Cincinnati</a> |
+       <a href="/home/Cleveland-dining/" alt="Cleveland Restaurants">Cleveland</a> |
+       <a href="/home/Columbus-dining/" alt="Columbus Restaurants">Columbus</a> |
+       <a href="/home/Dallas-dining/" alt="Dallas Restaurants">Dallas</a> |
+       <a href="/home/Denver-dining/" alt="Denver Restaurants">Denver</a> |
+       <a href="/home/Detroit-dining/" alt="Detroit Restaurants">Detroit</a> |
+       <a href="/home/Fort-Lauderdale-dining/" alt="Fort Lauderdale Restaurants">Fort Lauderdale</a> |
+       <a href="/home/Fort-Worth-dining/" alt="Fort Worth Restaurants">Fort Worth</a> |
+       <a href="/home/Honolulu-dining/" alt="Honolulu Restaurants">Honolulu</a> |
+       <a href="/home/Houston-dining/" alt="Houston Restaurants">Houston</a> |
+       <a href="/home/Indianapolis-dining/" alt="Indianapolis Restaurants">Indianapolis</a> |
+       <a href="/home/Jacksonville-dining/" alt="Jacksonville Restaurants">Jacksonville</a> |
+       <a href="/home/Kansas-City-dining/" alt="Kansas City Restaurants">Kansas City</a> |
+       <a href="/home/Las-Vegas-dining/" alt="Las Vegas Restaurants">Las Vegas</a> |
+       <a href="/home/Los-Angeles-dining/" alt="Los Angeles Restaurants">Los Angeles</a> |
+       <a href="/home/Louisville-dining/" alt="Louisville Restaurants">Louisville</a> |
+       <a href="/home/Memphis-dining/" alt="Memphis Restaurants">Memphis</a> |
+       <a href="/home/Miami-dining/" alt="Miami Restaurants">Miami</a> |
+       <a href="/home/Milwaukee-dining/" alt="Milwaukee Restaurants">Milwaukee</a> |
+       <a href="/home/Minneapolis-dining/" alt="Minneapolis Restaurants">Minneapolis</a> |
+       <a href="/home/Nashville-dining/" alt="Nashville Restaurants">Nashville</a> |
+       <a href="/home/New-Orleans-dining/" alt="New Orleans Restaurants">New Orleans</a> |
+       <a href="/home/New-York-dining/" alt="New York Restaurants">New York</a> |
+       <a href="/home/Oakland-dining/" alt="Oakland Restaurants">Oakland</a> |
+       <a href="/home/Oklahoma-City-dining/" alt="Oklahoma City Restaurants">Oklahoma City</a> |
+       <a href="/home/Orlando-dining/" alt="Orlando Restaurants">Orlando</a> |
+       <a href="/home/Philadelphia-dining/" alt="Philadelphia Restaurants">Philadelphia</a> |
+       <a href="/home/Phoenix-dining/" alt="Phoenix Restaurants">Phoenix</a> |
+       <a href="/home/Pittsburgh-dining/" alt="Pittsburgh Restaurants">Pittsburgh</a> |
+       <a href="/home/Portland-dining/" alt="Portland Restaurants">Portland</a> |
+       <a href="/home/Raleigh-dining/" alt="Raleigh Restaurants">Raleigh</a> |
+       <a href="/home/Rochester-dining/" alt="Rochester Restaurants">Rochester</a> |
+       <a href="/home/Sacramento-dining/" alt="Sacramento Restaurants">Sacramento</a> |
+       <a href="/home/Salt-Lake-City-dining/" alt="Salt Lake City Restaurants">Salt Lake City</a> |
+       <a href="/home/San-Antonio-dining/" alt="San Antonio Restaurants">San Antonio</a> |
+       <a href="/home/San-Diego-dining/" alt="San Diego Restaurants">San Diego</a> |
+       <a href="/home/San-Francisco-dining/" alt="San Francisco Restaurants">San Francisco</a> |
+       <a href="/home/San-Jose-dining/" alt="San Jose Restaurants">San Jose</a> |
+       <a href="/home/Seattle-dining/" alt="Seattle Restaurants">Seattle</a> |
+       <a href="/home/St-Louis-dining/" alt="St Louis Restaurants">St Louis</a> |
+       <a href="/home/Tampa-dining/" alt="Tampa Restaurants">Tampa</a> |
+       <a href="/home/Washington-dining/" alt="Washington Restaurants">Washington</a> |
+</p>
+      <p><b>International Cities:</b>
+             <a href="/home/Amsterdam-dining/" alt="Amsterdam Restaurants">Amsterdam</a> |
+       <a href="/home/Athens-dining/" alt="Athens Restaurants">Athens</a> |
+       <a href="/home/Bangkok-dining/" alt="Bangkok Restaurants">Bangkok</a> |
+       <a href="/home/Barcelona-dining/" alt="Barcelona Restaurants">Barcelona</a> |
+       <a href="/home/Beijing-dining/" alt="Beijing Restaurants">Beijing</a> |
+       <a href="/home/Berlin-dining/" alt="Berlin Restaurants">Berlin</a> |
+       <a href="/home/Brussels-dining/" alt="Brussels Restaurants">Brussels</a> |
+       <a href="/home/Budapest-dining/" alt="Budapest Restaurants">Budapest</a> |
+       <a href="/home/Buenos-Aires-dining/" alt="Buenos Aires Restaurants">Buenos Aires</a> |
+       <a href="/home/Calgary-dining/" alt="Calgary Restaurants">Calgary</a> |
+       <a href="/home/Cape-Town-dining/" alt="Cape Town Restaurants">Cape Town</a> |
+       <a href="/home/Copenhagen-dining/" alt="Copenhagen Restaurants">Copenhagen</a> |
+       <a href="/home/Dublin-dining/" alt="Dublin Restaurants">Dublin</a> |
+       <a href="/home/Edinburgh-dining/" alt="Edinburgh Restaurants">Edinburgh</a> |
+       <a href="/home/Florence-dining/" alt="Florence Restaurants">Florence</a> |
+       <a href="/home/Frankfurt-dining/" alt="Frankfurt Restaurants">Frankfurt</a> |
+       <a href="/home/Glasgow-dining/" alt="Glasgow Restaurants">Glasgow</a> |
+       <a href="/home/Hong-Kong-dining/" alt="Hong Kong Restaurants">Hong Kong</a> |
+       <a href="/home/Istanbul-dining/" alt="Istanbul Restaurants">Istanbul</a> |
+       <a href="/home/Jerusalem-dining/" alt="Jerusalem Restaurants">Jerusalem</a> |
+       <a href="/home/Johannesburg-dining/" alt="Johannesburg Restaurants">Johannesburg</a> |
+       <a href="/home/Lisbon-dining/" alt="Lisbon Restaurants">Lisbon</a> |
+       <a href="/home/London-dining/" alt="London Restaurants">London</a> |
+       <a href="/home/Madrid-dining/" alt="Madrid Restaurants">Madrid</a> |
+       <a href="/home/Melbourne-dining/" alt="Melbourne Restaurants">Melbourne</a> |
+       <a href="/home/Mexico-City-dining/" alt="Mexico City Restaurants">Mexico City</a> |
+       <a href="/home/Milan-dining/" alt="Milan Restaurants">Milan</a> |
+       <a href="/home/Montr&#233;al-dining/" alt="Montr&#233;al Restaurants">Montr&#233;al</a> |
+       <a href="/home/Moscow-dining/" alt="Moscow Restaurants">Moscow</a> |
+       <a href="/home/Mumbai-dining/" alt="Mumbai Restaurants">Mumbai</a> |
+       <a href="/home/Munich-dining/" alt="Munich Restaurants">Munich</a> |
+       <a href="/home/Nice-dining/" alt="Nice Restaurants">Nice</a> |
+       <a href="/home/Paris-dining/" alt="Paris Restaurants">Paris</a> |
+       <a href="/home/Prague-dining/" alt="Prague Restaurants">Prague</a> |
+       <a href="/home/Quebec-City-dining/" alt="Quebec City Restaurants">Quebec City</a> |
+       <a href="/home/Rio-De-Janeiro-dining/" alt="Rio De Janeiro Restaurants">Rio De Janeiro</a> |
+       <a href="/home/Rome-dining/" alt="Rome Restaurants">Rome</a> |
+       <a href="/home/San-Juan-dining/" alt="San Juan Restaurants">San Juan</a> |
+       <a href="/home/Sao-Paulo-dining/" alt="Sao Paulo Restaurants">Sao Paulo</a> |
+       <a href="/home/Shanghai-dining/" alt="Shanghai Restaurants">Shanghai</a> |
+       <a href="/home/Singapore-dining/" alt="Singapore Restaurants">Singapore</a> |
+       <a href="/home/Stockholm-dining/" alt="Stockholm Restaurants">Stockholm</a> |
+       <a href="/home/Sydney-dining/" alt="Sydney Restaurants">Sydney</a> |
+       <a href="/home/Tel-Aviv-dining/" alt="Tel Aviv Restaurants">Tel Aviv</a> |
+       <a href="/home/Tokyo-dining/" alt="Tokyo Restaurants">Tokyo</a> |
+       <a href="/home/Toronto-dining/" alt="Toronto Restaurants">Toronto</a> |
+       <a href="/home/Vancouver-dining/" alt="Vancouver Restaurants">Vancouver</a> |
+       <a href="/home/Venice-dining/" alt="Venice Restaurants">Venice</a> |
+       <a href="/home/Warsaw-dining/" alt="Warsaw Restaurants">Warsaw</a> |
+       <a href="/home/Zurich-dining/" alt="Zurich Restaurants">Zurich</a> |
+ <a href="/our-cities">more cities</a>
+      </p>
+      
+    </div>
+    
+    <div id="footer-seenin">
+      <h4 style="padding-bottom: 12px">As Seen In</h4>
+      <a href="http://www.usatoday.com/travel/destinations/2009-01-05-where-the-locals-eat_N.htm?loc=interstitialskip" target="_blank"><img src="/media/246625/usatoday-logo.gif"></a> <a href="http://www.time.com/time/nation/article/0,8599,2091219,00.html" target="_blank"><img src="/media/246630/time-logo.gif"></a> <a href="http://www.macworld.com/article/164273/2011/12/localeats_update_delivers_menus_to_iphone_food_finder.html" target="_blank"><img src="/media/246650/macworld-logo.gif"></a> <a href="http://www.forbes.com/sites/traceygreenstein/2011/12/19/10-best-apps-for-traveling-like-a-local/" target="_blank"><img src="/media/246635/forbes-logo.gif"></a> <a href="http://travel.nytimes.com/2008/09/07/travel/07praciPhone.html?scp=1&sq=LocalEats&st=cse" target="_blank"><img src="/media/246640/nytimes-logo.gif"></a> <a class="noPadding" href="http://techcrunch.com/2011/12/06/mobile-dining-apps-localeats-bitehunter-announce-partnership/" target="_blank"><img src="/media/246645/techcrunch-logo.gif"></a>
+    </div>
+    <div id="footermenu">
+          <h4>Navigation</h4>
+           <ul id="topNavigation"><li class="home current" /><li><a class="navigation" href="/contact-us/"><span>Contact Us</span></a></li><li><a class="navigation" href="/landmarks/"><span>Landmarks</span></a></li><li><a class="navigation" href="/localeats-mobile/"><span>LocalEats Mobile</span></a></li><li><a class="navigation" href="/neighborhoods/"><span>Neighborhoods</span></a></li><li><a class="navigation" href="/our-cities/"><span>Our Cities</span></a></li><li><a href="/man-bites-food/">Man Bites Food Blog</a></li><li><a href="/best-american-food-and-dining-blogs/">Best American Food and Dining Blogs</a></li><li><a href="/best-international-food-and-dining-blogs/">Best International Food and Dining Blogs</a></li><li><a href="/food-wine-events-and-festivals/2013/april/food-event-calendar/">Food Events</a></li><li><a href="/dine-n-dash-blog/">Dine &amp; Dash Blog</a></li></ul>
+    </div>  
+    <div id="footershare">
+           <h4>Share/Social</h4>
+      <ul>
+        <li><a href="http://twitter.com/#!/LocalEats" target="_blank"><img src="/images/icons/social_twitter.png" width="28" height="22" />Twitter</a></li>
+        <li><a href="http://www.facebook.com/pages/LocalEats/56919144105" target="_blank"><img src="/images/icons/social_facebook.png" width="28" height="22" />Facebook</a></li>
+        <li><a href="https://plus.google.com/105868158572703161795?prsrc=3" style="text-decoration:none;" target="_blank"><img src="/media/246655/social_googleplus.png" width="28" height="22" />Google+</a></li>
+      </ul>
+    </div>  
+    <div id="footercontact">
+           <h4>Contact information</h4>
+            LocalEats<br />
+            Email: <script type="text/javascript">
+      var stb_domain = "localeats.com";
+      var stb_user = "feedback";
+      var stb_recipient = stb_user + "@" + stb_domain;
+      var stb_url = "mailto:" + stb_recipient + "?Feedback";
+      document.write(stb_recipient.link(stb_url));
+                    </script>
+      <br><br>
+      
+      <h4>Price Range ($)</h4>
+      $ - Average entrée $10 or less<br>
+      $$ - Average entrée $11-$25<br>
+      $$$ - Average entrée $26-$40<br>
+      $$$$ - Average entrée $41-$70<br>
+      $$$$$ - Average entrée over $70
+      
+    </div>
+    <div id="footerabout">
+      <h4>About us</h4>
+      <h2>LocalEats is your guide to the best local restaurants worldwide. No chains!</h2> <br/>
+
+      We do the research for you, gathering the opinions of critics and local bloggers, trusted friends, and site visitors. So, if you see a restaurant listed here, you know it's good!
+    </div>   
+    
+    <div class="clear"></div>
+   
+   
+    <div style="width: auto; text-align: center">
+      <!--- start of localeats_ros_728x90_247RealMediaAdTag --->
+<script LANGUAGE="JavaScript1.1">
+OAS_rn = new String (Math.random());
+OAS_rns = OAS_rn.substring (2, 11);
+document.write('<scr'+'ipt LANGUAGE="JavaScript1.1" SRC="http://network.realmedia.com/RealMedia/ads/adstream_jx.ads/localeats/ros/728x90/jx/ss/a/1'+OAS_rns+'@Top1"></scr'+'ipt>');
+</script>
+<!--- end of localeats_ros_728x90_247RealMediaAdTag --->
+    </div>
+    
+    <div style="width: auto; text-align: center">
+      <p>
+      Copyright LocalEats&reg; 2013 | All Rights Reserved
+      </p>
+    </div>    
+   
+<!-- Javascript tag  -->
+<div id="divShowIpad" style="display:none;" title="">
+     <a href="http://itunes.apple.com/us/app/localeats-for-ipad/id424991383?mt=8" target="_blank"><img src="/media/262433/ipad-ad.jpg" alt="LocalEats for iPad"/></a>
+     <span class="showFull"><a href="" onClick="closeIpad(); return false" style="padding-right: 10px;">Continue to the Full Site</a></span> <span class="gotoApp"><a href="http://itunes.apple.com/us/app/localeats-for-ipad/id424991383?mt=8" target="_blank">Get it from the App Store</a></span>
+   </div> <!-- divShowIpad -->
+      
+   <div id="divShowIphone" style="display:none;" title="">
+     <a href="http://itunes.apple.com/us/app/localeats/id285518463?mt=8" target="_blank"><img src="/media/263122/iphone-ad2.jpg" alt="LocalEats for iPhone"/></a>
+     <span class="showFull"><a href="" onClick="closeIphone(); return false" style="padding-right: 10px;">Continue to the Full Site</a></span> <span class="gotoApp"><a href="http://itunes.apple.com/us/app/localeats/id285518463?mt=8" target="_blank">Get it from the App Store</a></span>
+   </div> <!-- divShowIpad -->
+    
+ <div id="divNewsletterSuccess">
+    <div class="newsletterThanks">
+      <h4>Thank you.</h4> You have successfully signed up for the LocalEats newsletter!
+    </div>
+  </div> <!-- divNewsletterSuccess -->    
+</div>
+      </div>
+       <div id="mobileFooter">
+  <a href="/">Home</a><a href="javascript:showFull();">Show Full Site</a><a href="/localeats-mobile/">LocalEats mobile</a><a href="/about-us/">About Us</a>
+</div> <!-- mobileFooter --> 
+<!-- end div#wrapper -->
+  </form>  
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1759296-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+   <script type="text/javascript">
+
+  var messages=new Array(); 
+  messages[0]="Locating only the best locally owned restaurants.";       
+  messages[1]="Hang tight while we find the best local restaurants.";
+  messages[2]="Don’t fill up on bread. The main course is on its way.";
+  messages[3]="Finding fine establishments that will be happy to feed you.";
+  messages[4]="Hold on as we attempt to solve your hunger crisis.";
+  messages[5]="Populating a list of the best locally owned eateries.";
+  
+  var randomnumber=Math.floor(Math.random()*6);
+
+
+  document.write("<div id='searchLoading' style='display:none'>");
+  document.write("<p><span class='slLargeTxt'>" + messages[randomnumber] + "</span></p>");
+  document.write("<p><img src='/media/244282/ajax-loader__6_.gif'></p>");
+  document.write("<p><span class='slSmallTxt'>Fueled by hunger, powered by LocalEats</span></p>");
+  document.write("</div>");
+
+</script>
+      
+      
+      
+  <!--Scrips-->  
+
+
+
+  
+  
+ 
+  <script type="text/javascript" src="/scripts/spin.min.js"></script>
+
+
+  <script type="text/javascript" src="/scripts/helper.js"></script>
+      <script type="text/javascript" src="/scripts/detectBrowser.js"></script>
+  
+  <script type="text/javascript">
+    
+    var intval="";
+    
+    ddsmoothmenu.init({
+     mainmenuid: "mainmenu", //menu DIV id
+     orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+     classname: 'ddsmoothmenu', //class added to menu's outer DIV
+     //customtheme: ["#1c5a80", "#18374a"],
+     contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+    })
+      
+      function emailCheck() {
+        window.clearInterval(intval);
+        var uls = $("#contactRightCol ul").length;
+        alert(uls);
+        if(uls == 0)  {
+          $("#contactRightCol").html("<div id='contactRightCol'><strong>LocalEats ®</strong><br /><div class='contactGeneral'>Please email us using the form below for all questions or inquiries concerning our LocalEats App (iPhone, iPad, Android or Storm), website, or company.<div class='contactGeneral'><p>Your email was sent successfully.</p></div>");
+        }
+      }
+    
+    function pluck(arr, prop) {
+      var i = arr.length, res = new Array(i);
+      while (i--) {
+        res[i] = arr[i][prop];
+      }
+      return res;
+    }
+    
+    
+    
+    $(document).ready(function(){
+      //document.ontouchmove = function(e){ e.preventDefault(); } 
+      $('#page').codebomber_Panel();
+        
+        $('#page').codebomber_Panel2(); 
+       
+        
+      
+                if ((screen.width>=400) && (screen.height>=400)) {
+                  
+                  
+                } else {
+                    $(".restSrchInput").addClass("defaultText");
+      $("input.restSrchWhat").attr("title", "Search for What (mexican, restaurant name,etc)" )  
+      $(".restSrchSubmit").attr("value", "Search for Restaurants");
+        
+        $(".restSrchSubmit").click(function() {
+          if($("input.restSrchWhat").val() == "Search for What (mexican, restaurant name,etc)") {
+            $("input.restSrchWhat").val("");
+          } 
+         }); 
+        
+        $(".defaultText").focus(function(srcc)
+          {
+              if ($(this).val() == $(this)[0].title)
+              {
+                  $(this).removeClass("defaultTextActive");
+                  $(this).val("");
+              }
+          });      
+                }
+      
+            
+       var aInput = $(".restSrchWhere")[0];
+      
+       $("#homeSeeMoreCities a.homeSeeMoreLink").click(function() {
+     var isShowing = $("#homeShortCityList").is(":visible");
+     showHideCities(isShowing);
+       
+    });
+      
+      $("#homeSeeLessCities a.homeSeeMoreLink").click(function() {
+         var isShowing = $("#homeShortCityList").is(":visible");
+         showHideCities(isShowing);
+      
+       });
+      
+      function showHideCities(isShowing) {
+        if(isShowing) {
+         $("#homeShortCityList").hide();
+         $("#homeLongCityList").show();
+         $("#homeSeeMoreCities").hide();
+         $("#homeSeeLessCities").show();
+         
+         //$("#homeSeeMoreCities").html("<a href='/our-cities/'>see all cities</a> | <a class='homeSeeMoreLink' href='#' onClick='return false'>see less cities <img src='/media/248825/arrowup.gif'/></a>");
+       } else {
+         $("#homeShortCityList").show();
+         $("#homeLongCityList").hide();  
+         $("#homeSeeMoreCities").show();
+         $("#homeSeeLessCities").hide();  
+         
+         //$("#homeSeeMoreCities").html("<a href='/our-cities/'>see all cities</a> | <a class='homeSeeMoreLink' href='#' onClick='return false'>see more cities <img src='/media/248820/arrowdown.gif'/></a>");         
+       }
+      }
+      
+      // alert($(aInput).attr('id'));
+      
+      autocompleteHelper.init(aInput, function(predictions) {
+       
+        //document.getElementById('newsletterInput').value = 'Predictions are ' + pluck(predictions, 'bf');
+        //document.getElementById('ContentPlaceHolderDefault_wucRestaurantSearch_3_txtLocoSearch').value = 'Predictions are ' + pluck(predictions, 'bf');
+      });
+      
+      $("#newsletterSubmit").click(function() {
+             
+            var email = $("#newsletterInput").val();
+            
+           $.ajax({
+              url: 'http://apiv2.localeats.com/Mobile/GetSaveNewsletterEmail?skey=eatme&format=json&newsEmail=' + email,
+              contentType: "application/json; charset=utf-8",
+              crossDomain: true,
+              dataType: "jsonp",
+              global: false,
+              type: "GET",
+              success: function(e) {
+                var aSize = 0;
+                if ((screen.width>=800) && (screen.height>=600)) {
+                  
+                  aSize = 700;
+                } else {
+                  aSize = 260;        
+                }
+                 $("#divNewsletterSuccess").dialog({
+                              modal:true,
+                        dialogClass:'popUp',
+                        width:aSize,
+                        position:["center", 100]
+                          });
+              }, 
+                  error: function(e) {
+                    alert("didn't");
+                  }       
+              }); 
+                  
+                  
+           });
+     
+     
+     $('.restSrchWhere').keypress(function(e) {
+        if(e.which == 13) {
+            jQuery(this).blur();
+            jQuery('#mainSearchBtn').focus().click();
+           if (e.preventDefault) e.preventDefault();
+           if (e.stopPropagation) e.stopPropagation();
+        }
+     }); 
+     
+     $('.restSrchWhat').keypress(function(e) {
+        if(e.which == 13) {
+            jQuery(this).blur();
+            jQuery('#mainSearchBtn').focus().click();
+           if (e.preventDefault) e.preventDefault();
+           if (e.stopPropagation) e.stopPropagation();
+        }
+     });  
+     
+     
+      
+    $(".restSrchSubmit").click(function() {
+      
+        var strAddy = $(".restSrchWhere").val();
+        GeoCodeAddy(strAddy);
+      
+      $("#searchLoading").dialog({
+                     modal:true,
+                     width:260,
+                     dialogClass:'popUp',
+                     position:["center", 100],
+                     draggable:false,
+                     close: function(event, ui) {
+                     }
+                  });
+    }); 
+      
+      
+      
+      
+      //var locate = $("#hiddenLocation").text().replace(/ /g,'');
+       var strippedWhere = $.cookie("cookMajorCityName");
+        
+        if (strippedWhere != null)
+        {
+          strippedWhere = strippedWhere.replace(/\#|\+/g," ");
+          strippedWhere =  strippedWhere.replace(/%2c/g,",");
+          strippedWhere =  strippedWhere.replace(/%20/g," ");
+          strippedWhere = strippedWhere.replace(/%C3%A9/g,"é");
+          strippedWhere = strippedWhere.replace(/%c3%a9/g,"é");
+          strippedWhere = strippedWhere.replace(/%2C/g,","); 
+        }
+      
+      
+      var string = "";
+      if($.cookie("cookIccID") != 840) {
+        
+        string = strippedWhere + ", " + $.cookie('cookICCAplha3');
+      } else {
+        
+        string = strippedWhere + ", " + $.cookie('cookMajorState'); 
+      }
+   
+   
+       
+     $('#basic-modal .basic').click(function (e) {
+        $('#basic-modal-content').modal();
+        
+       
+        return false;
+      }); 
+      
+      $('#restSrchFootRight a').click(function() {
+      $('#restSrchOptions').animate({
+        display: 'block',
+        height: 'toggle'
+      }, 500, function() {
+        // Animation complete.
+      });
+      });    
+      
+    });
+  </script>
+      
+      
+      
+      
+
+</body>
+</html>

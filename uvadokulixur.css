@@ -1,0 +1,46 @@
+#mobileFilterIcon, #mobileMapBtn {
+      display:block;
+    }
+    
+    #mobileListHeader {
+      display: block;
+      width: 100%;
+      background-color: #d0cecf;
+      padding: 6px 0px 6px 0px;
+      background: url("daneqat.png") top left no-repeat;
+      background-size: 100%;
+      -moz-box-shadow: 1px 2px 3px #424141;
+      -webkit-box-shadow: 1px 2px 3px #424141;
+      box-shadow: 1px 2px 3px #424141;
+    }
+    
+    #leftcontent {
+      position: relative;
+      width: 100%;
+      padding: 0px 0px 2px 0px;
+      
+      
+      margin-bottom: 0px;
+ 
+  
+  }
+    #map_canvas {
+     
+    }
+    #rightcontent {
+     
+    }
+    
+    #mobileFilterIcon, #mobileMapBtn {
+      display: block;
+    }
+
+
+
+
+
+
+
+
+
+

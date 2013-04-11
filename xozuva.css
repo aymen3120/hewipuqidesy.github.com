@@ -1,0 +1,188 @@
+
+
+.ui-widget-content  {
+  background: #fff url() 50% bottom repeat-x;
+  padding-left: 4px;
+  border:none;
+  
+}
+
+.popUp {
+  background: #f2f1f1 url() 50% bottom repeat-x;
+  padding-left: 60px;
+  border:10px solid #ccc;
+  
+}
+
+.ui-widget-header {
+  background-color: #f2f1f1;
+  background-image: none;
+  border:none;
+}
+
+#divDomesticCityContainer {
+  margin-top: 10px;
+}
+
+.ui-widget-content a {
+  position: relative;
+  
+}
+
+.ui-widget-overlay {
+background: #000 url("gowevakuwew.png") 50% 50% repeat-x;
+opacity: .65;
+filter: Alpha(Opacity=65);
+}
+
+#divChangeCity {
+  
+}
+
+#changeCity {
+  
+  width: 580px;
+  background-color: #ebe9e9;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+  font-size: 16px;
+}
+
+.domOn {
+   background-image: url("ihafinozeda.png");
+  background-position: left 0px;
+}
+
+.domOff {
+   background-image: url("awafijegicu.png");
+  background-position: left 0px;
+}
+
+#changeCity a {
+  padding: 0px;
+   width: auto;
+  display: block;
+ 
+ padding: 8px 10px;
+  
+}
+
+a.modalBtnOn {
+  background-color: #494949;
+  color: #ebe9e9;
+}
+
+.modalLinkOn {
+  color: #ebe9e9;
+}
+
+#modalChangeLabel {
+  position: relative;
+  float: left;
+  width: 260px;
+  margin-left: 10px;
+  padding: 8px 10px;
+}
+
+#modalDomBtn {
+  position: relative;
+  float: left;
+  width: 100px;
+}
+
+#modalDomBtn a {
+  
+}
+
+#modalFornBtn {
+  position: relative;
+  float: left;
+  width: 100px;
+  margin-left: 20px;
+}
+
+.modalUnderline {
+  width: 580px;
+  border-top: 1px solid #999;
+  margin-top: 16px;
+}
+
+.modalSeeAll {
+  position: relative;
+  float: right;
+  margin: 4px 6px 0px 0px;
+  width: auto;
+  right: 80px;
+  text-align: right;
+}
+
+.modalSeeAll a {
+  width: auto;
+  padding-top: 10px;
+}
+
+#divNewsletterSuccess {
+  display:none;
+}
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+  border-bottom-right-radius: 0px;
+}
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl {
+  border-bottom-left-radius: 0px;
+}
+
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl {
+  border-top-left-radius: 0px;
+}
+
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr {
+  border-top-right-radius: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
